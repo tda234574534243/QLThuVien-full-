@@ -16,7 +16,7 @@ Hệ thống đảm bảo mọi dữ liệu được lưu trữ và truy xuất 
 ## **Thông Tin Chính**  
 - **Mã Dự Án**: `PRO_CTDL_3`  
 - **Hình Thức Nộp**: Nộp qua Google Classroom.  
-- **Hạn Chót**: ... / ... / ......  
+- **Hạn Chót**: 29 / 11 / 2024  
 - **Phạm Vi**: Bao gồm các chương 2, 3, 4 và 5 của môn học.  
 
 ---
@@ -45,7 +45,8 @@ Hệ thống đảm bảo mọi dữ liệu được lưu trữ và truy xuất 
 ### **2. Menu Chính**  
 Sau khi đăng nhập thành công, menu chính cung cấp các tùy chọn sau:  
 1. **Quản Lý Sách**  
-2. **Quản Lý Phiếu Mượn**  
+2. **Quản Lý Phiếu Mượn**
+3. **Quản lý Bạn Đọc**
 
 ---
 
