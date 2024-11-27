@@ -132,7 +132,7 @@ Lưu thông tin tài khoản quản trị:
 ---
 
 ## **Hướng Dẫn Chạy Chương Trình**  
-1. Biên dịch và chạy chương trình bằng trình biên dịch hoặc IDE hỗ trợ C++.  
+1. Biên dịch và chạy chương trình bằng trình biên dịch hoặc IDE hỗ trợ C++(**Note:** Cài đặt window 10 SDK để thực thi được thư viện).  
 2. Làm theo hướng dẫn để đăng nhập và sử dụng các chức năng hệ thống.  
 3. Đảm bảo các file dữ liệu (`Sach.txt`, `BanDoc.txt`, `PhieuMuon.txt`, và `Admin.txt`) có trong thư mục chương trình.  
 
