@@ -1,0 +1,14 @@
+B001|Harry Potter and the Sorcerer's Stone|J.K. Rowling|Bloomsbury|50000|1997|223|2024-01-15|1
+B002|The Great Gatsby|F. Scott Fitzgerald|Charles Scribner's Sons|30000|1925|180|2024-01-20|1
+B003|To Kill a Mockingbird|Harper Lee|J.B. Lippincott & Co.|40000|1960|281|2024-02-10|0
+B004|1984|George Orwell|Secker & Warburg|45000|1949|328|2024-02-15|0
+B005|Pride and Prejudice|Jane Austen|T. Egerton|35000|1813|279|2024-02-20|0
+B006|The Catcher in the Rye|J.D. Salinger|Little, Brown and Company|48000|1951|277|2024-02-25|0
+B007|The Hobbit|J.R.R. Tolkien|George Allen & Unwin|55000|1937|310|2024-03-01|0
+B008|The Lord of the Rings|J.R.R. Tolkien|George Allen & Unwin|120000|1954|1216|2024-03-05|0
+B009|Fahrenheit 451|Ray Bradbury|Ballantine Books|32000|1953|158|2024-03-10|0
+B010|Brave New World|Aldous Huxley|Chatto & Windus|37000|1932|311|2024-03-15|0
+B011|Jujutsu Kaisen|Gege Akutami|Shueisha|30000|2018|188|2024-10-01|0
+B012|Naruto|Masashi Kisimoto|Shueisha|35000|2016|720|2024-10-30|0
+B013|Sword Art Online|Rei Kawahara|ASCII Media Works|30000|2009|200|2024-10-07|0
+B097|Noi Nay Co Anh|Son Tung Mtp|MTP Entertainment|30000|2017|200|2000-2-14|0
